@@ -1,3 +1,7 @@
+
+![Logo](https://avatars.githubusercontent.com/u/9919?s=280&v=4)
+
+
 # Github
 
 - O que é o Github? - 01:18
@@ -70,6 +74,7 @@ ssh-keygen -t ed25519 -C `"seuemail@gmail.com"`
 7. Agora sempre que for fazer um `git clone`, utilize a opção SSH
 <img src="./img/github5.png" width="20%">
 
+![#0a192f](https://via.placeholder.com/10/0a192f?text=+)
 - git remote --v
 - git rm -r --cached . (limpa o cache)
 - .gitkeep (dentro de uma pasta vazia obriga o git a reconhecer a pasta)
