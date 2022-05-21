@@ -71,3 +71,6 @@ ssh-keygen -t ed25519 -C `"seuemail@gmail.com"`
 <img src="./img/github5.png" width="20%">
 
 - git remote --v
+- git rm -r --cached . (limpa o cache)
+- .gitkeep (dentro de uma pasta vazia obriga o git a reconhecer a pasta)
+- git pull (busca as alterações realizadas no github e atualiza o meu repositório git)
