@@ -70,3 +70,4 @@ ssh-keygen -t ed25519 -C `"seuemail@gmail.com"`
 7. Agora sempre que for fazer um `git clone`, utilize a opção SSH
 <img src="./img/github5.png" width="20%">
 
+- git remote --v
